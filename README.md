@@ -1,4 +1,4 @@
-# PHP-to-jQuery-Ajax
+# PHP-to-jQuery-Ajax-Converter
 This php class will assemble your basic jQuery Ajax based on input. Beta
 
 ````php
